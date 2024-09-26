@@ -22,7 +22,6 @@ This paper provides an analytical and formal framework for economists, researche
 
 - **Comprehensive Framework**: The paper introduces the **Value Creation Transformation Theory**, which unifies traditional and modern economic insights into a cohesive model that addresses both tangible and intangible assets.
 - **Applicable Across Sectors**: Whether you are exploring the impact of digital platforms, healthcare innovation, or sustainable technologies, this theory offers sector-specific insights that are grounded in rigorous economic analysis.
-- **Research-Driven**: The paper is deeply rooted in both classical economic literature and cutting-edge research, providing a theoretical foundation for understanding how technology, innovation, and human capital shape value creation today.
 - **Actionable for Policymakers**: For policymakers, the theory offers guidance on how to foster national and global value creation through targeted investments in education, R&D, and green technologies.
 
 If you are a researcher, economist, or policymaker interested in understanding and shaping the future of value creation, this paper provides the tools to help you analyze and unlock new opportunities in today’s complex economy.
@@ -42,7 +41,7 @@ Together, we can push the boundaries of economic theory and develop new models t
 
 ### Get Started:
 - Visit the Agora community [here](https://github.com/kyegomez/A-Theory-on-Value-Creation)
-- Explore the paper and code in this repository.
+- Explore the paper in this repository.
 - Contribute to the research by engaging with the work and proposing new ideas.
 
 Let’s collaborate to drive the future of economic theory and value creation.
